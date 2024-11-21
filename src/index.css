@@ -1,0 +1,9 @@
+.top{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+body{
+  margin: 25px;
+}
